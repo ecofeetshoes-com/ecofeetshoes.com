@@ -1,5 +1,60 @@
 /*
- TITLES
+ NEWS
+ */
+
+/* ARTICLE 08*/ #u231771, #u231771:hover, #u231231, #u231231:hover {
+   background-color: White !important;
+   background-position: center center;
+   background-size: contain;
+}
+/* ARTICLE 07*/ #u205411, #u205411:hover, #u231283, #u231283:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+/* ARTICLE 06*/ #u226734, #u226734:hover, #u226325, #u226325:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 05*/ #u221323, #u221323:hover, #u221160, #u221160:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+/* ARTICLE 04*/ #u205410, #u205410:hover, #u201309, #u201309:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 03*/                           #u201340, #u201340:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+/* ARTICLE 02*/                           #u201309, #u201309:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 01*/                           #u201340, #u201340:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+
+/*
+ SAVOIR-FAIRE
+ */
+
+ #u232 {
+   background-image: url('images/vvvv_savoir-faire-xx.jpg');
+   background-position: center center;
+   background-size: cover;
+ }
+
+/*
+ _TITLES
  */
 
 .vvvv_title {
@@ -17,7 +72,8 @@
 
 #u302-4,
 #u1850-4,
-#u205806-4 {
+#u205806-4,
+#u149834-4 {
   display: none !important;
 }
 
