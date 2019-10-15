@@ -1,0 +1,9 @@
+title: Ecofeet | Faux Fur Artisan
+description: >-
+  We are developing high end faux fur, with a vertically integrated supply chain that straddles from fabric to garments, for more than 300 top fashion brands.
+baseurl: ""
+url: "https://ecofeetshoes.com"
+github:
+  repo:  https://github.com/ecofeetshoes-com/ecofeetshoes.com
+timezone: Europe/Madrid
+markdown: kramdown

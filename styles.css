@@ -1,0 +1,683 @@
+/*
+ NEWS
+ */
+
+/* ARTICLE 08*/ #u231771, #u231771:hover, #u231231, #u231231:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 07*/ #u205411, #u205411:hover, #u231283, #u231283:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+/* ARTICLE 06*/ #u226734, #u226734:hover, #u226325, #u226325:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 05*/ #u221323, #u221323:hover, #u221160, #u221160:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+/* ARTICLE 04*/ #u205410, #u205410:hover, #u201309, #u201309:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 03*/                           #u201340, #u201340:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+/* ARTICLE 02*/                           #u201309, #u201309:hover {
+   background-color: White !important;
+   background-position: left center;
+   background-size: contain;
+}
+/* ARTICLE 01*/                           #u201340, #u201340:hover {
+   background-color: White !important;
+   background-position: right center;
+   background-size: contain;
+}
+
+/*
+ SAVOIR-FAIRE
+ */
+
+ #u232 {
+   background-image: url('images/vvvv_savoir-faire-xx.jpg');
+   background-position: center center;
+   background-size: cover;
+ }
+
+/*
+ _TITLES
+ */
+
+.vvvv_title {
+  text-align: center;
+  background-color: none;
+  letter-spacing: 5px;
+  min-height: 25px;
+  color: #ffffff;
+  font-family: raleway, sans-serif;
+  line-height: 90px;
+  font-size: 30px;
+  font-weight: 300;
+  height: 100%;
+}
+
+#u302-4,
+#u1850-4,
+#u205806-4,
+#u149834-4 {
+  display: none !important;
+}
+
+#u217769 {
+  z-index: 9999;
+}
+
+/*
+ HI TECH KNITS */
+
+#u121462,
+div[data-orig-id="u121462"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u121579,
+#u121577,
+#u121590,
+#u121582,
+#u121584,
+#u121585,
+#u121591,
+#u121578 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u121579:hover,
+#u121577:hover,
+#u121590:hover,
+#u121582:hover,
+#u121584:hover,
+#u121585:hover,
+#u121591:hover,
+#u121578:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+a#buttonu121592,
+a#buttonu121592:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu121592:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu121592 > img,
+#buttonu121592 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ THE SOCK SHOES */
+
+#u111153,
+div[data-orig-id="u111153"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u110856,
+#u110860,
+#u110866,
+#u110852,
+#u110858,
+#u110863,
+#u110849,
+#u110865 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u110856:hover,
+#u110860:hover,
+#u110866:hover,
+#u110852:hover,
+#u110858:hover,
+#u110863:hover,
+#u110849:hover,
+#u110865:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+a#buttonu110854,
+a#buttonu110867,
+a#buttonu110854:hover,
+a#buttonu110867:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu110854:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu110867:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu110854 > img,
+#buttonu110854 > div.grpelem,
+#buttonu110867 > img,
+#buttonu110867 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ 80'S COLORS */
+
+#u122838,
+div[data-orig-id="u122838"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u123178,
+#u123179,
+#u123184,
+#u123180,
+#u123175,
+#u123174,
+#u123187,
+#u123188 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u123178:hover,
+#u123179:hover,
+#u123184:hover,
+#u123180:hover,
+#u123175:hover,
+#u123174:hover,
+#u123187:hover,
+#u123188:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+a#buttonu123170,
+a#buttonu123176,
+a#buttonu123170:hover,
+a#buttonu123176:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu123170:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu123176:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu123170 > img,
+#buttonu123170 > div.grpelem,
+#buttonu123176 > img,
+#buttonu123176 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ ANIMAL PRINTS */
+
+#u121462,
+div[data-orig-id="u121462"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u121579,
+#u121577,
+#u121590,
+#u121582,
+#u121584,
+#u121585,
+#u121591,
+#u121578 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u121579:hover,
+#u121577:hover,
+#u121590:hover,
+#u121582:hover,
+#u121584:hover,
+#u121585:hover,
+#u121591:hover,
+#u121578:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu121588,
+#buttonu121592,
+#buttonu121588:hover,
+#buttonu121592:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu121588:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu121592:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu121588 > img,
+#buttonu121588 > div.grpelem,
+#buttonu121592 > img,
+#buttonu121592 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ SWEET FANCY */
+
+#u124042,
+div[data-orig-id="u124042"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u124058,
+#u124045,
+#u124063,
+#u124057,
+#u124053,
+#u124050,
+#u124048,
+#u124047 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u124058:hover,
+#u124045:hover,
+#u124063:hover,
+#u124057:hover,
+#u124053:hover,
+#u124050:hover,
+#u124048:hover,
+#u124047:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu124051,
+#buttonu124054,
+#buttonu124051:hover,
+#buttonu124054:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu124051:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu124054:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu124051 > img,
+#buttonu124051 > div.grpelem,
+#buttonu124054 > img,
+#buttonu124054 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ STATEMENT STRAPS */
+
+#u108388,
+div[data-orig-id="u108388"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u108727,
+#u108742,
+#u108741,
+#u108738,
+#u108743,
+#u108728,
+#u108731,
+#u108733 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u108727:hover,
+#u108742:hover,
+#u108741:hover,
+#u108738:hover,
+#u108743:hover,
+#u108728:hover,
+#u108731:hover,
+#u108733:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu108729,
+#buttonu108736,
+#buttonu108729:hover,
+#buttonu108736:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu108729:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu108736:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu108729 > img,
+#buttonu108729 > div.grpelem,
+#buttonu108736 > img,
+#buttonu108736 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ ALL IN ONE COLOR */
+
+#u106770,
+div[data-orig-id="u108388"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u106639,
+#u106654,
+#u106636,
+#u106641,
+#u106650,
+#u106638,
+#u106640,
+#u106637 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u106639:hover,
+#u106654:hover,
+#u106636:hover,
+#u106641:hover,
+#u106650:hover,
+#u106638:hover,
+#u106640:hover,
+#u106637:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu106646,
+#buttonu106644,
+#buttonu106646:hover,
+#buttonu106644:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu106646:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu106644:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu106646 > img,
+#buttonu106646 > div.grpelem,
+#buttonu106644 > img,
+#buttonu106644 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ PERFORMANCE */
+
+#u125082,
+div[data-orig-id="u125082"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u125371,
+#u125364,
+#u125369,
+#u125366,
+#u125372,
+#u125361,
+#u125365,
+#u125360 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u125371:hover,
+#u125364:hover,
+#u125369:hover,
+#u125366:hover,
+#u125372:hover,
+#u125361:hover,
+#u125365:hover,
+#u125360:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu125373,
+#buttonu125355,
+#buttonu125373:hover,
+#buttonu125355:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu125373:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu125355:after {
+  content: ">";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-right: -22px;
+  line-height: 52px;
+  float: right;
+}
+
+#buttonu125373 > img,
+#buttonu125373 > div.grpelem,
+#buttonu125355 > img,
+#buttonu125355 > div.grpelem {
+  background-image: none;
+  display: none;
+}
+
+/*
+ CHUNKY SOLES */
+
+#u106027,
+div[data-orig-id="u106027"] {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u105896,
+#u105911,
+#u105893,
+#u105898,
+#u105907,
+#u105895,
+#u105897,
+#u105894 {
+  background-position: center center;
+  background-size: cover;
+}
+
+#u105896:hover,
+#u105911:hover,
+#u105893:hover,
+#u105898:hover,
+#u105907:hover,
+#u105895:hover,
+#u105897:hover,
+#u105894:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu105903,
+#buttonu105903:hover {
+  background-position: center center;
+  background-size: cover;
+}
+
+#buttonu105903:after {
+  content: "<";
+  color: #458AC6;
+  font-size: 28px;
+  display: block;
+  visibility: visible;
+  margin-left: -22px;
+  line-height: 52px;
+}
+
+#buttonu105903 > img,
+#buttonu105903 > div.grpelem {
+  background-image: none;
+  display: none;
+}
