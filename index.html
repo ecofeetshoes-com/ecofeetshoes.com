@@ -400,7 +400,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="stylesheet" type="text/css" href="css/site_global-crc=510774705.css"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master-crc=3902197584.css"/>
   <link rel="stylesheet" type="text/css" href="css/index-crc=140767096.css" id="pagesheet"/>
-  
+
   <div class="breakpoint active" id="bp_infinity" data-min-width="1025"><!-- responsive breakpoint node -->
    <div class="museBGSize img clearfix" id="page"><!-- group -->
     <div class="clearfix grpelem" id="pu122-4"><!-- group -->
@@ -2705,32 +2705,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
                  */
             </script>
 
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>
-
-            <script>
-                jQuery(document).ready(function($){
-
-                    var waypointOffsetu15625   = 'inViewport' == 'manual' ? '50%' : '100%';
-                    var delayToStartu15625     = 'inViewport' == 'manual' ? '100' : '0';
-
-                    $('#ecopel1').waypoint(function() {
-                        setTimeout('svgu15625.play()', delayToStartu15625);
-                    }, {offset: waypointOffsetu15625});
-
-                    if ('in-viewport' != 'no-replay' && 'in-viewport' != 'in-viewport') {
-                        $('#u15625 .mt-on-in-viewport').on('in-viewport', function() {
-                            $('#u15625 .mt-on-in-viewport').removeClass('mt-svg-animation-finished');
-                            svgu15625.reset().play();
-                        });
-                    } else if ('in-viewport' == 'in-viewport') {
-                        $('#ecopel1').waypoint(function() {
-                            $('#u15625 .mt-on-in-viewport').removeClass('mt-svg-animation-finished');
-                            setTimeout('svgu15625.reset().play()', delayToStartu15625);
-                        }, {offset: waypointOffsetu15625});
-                    }
-
-                });
-            </script>
+          
 
 
 <script type="text/javascript">
@@ -2866,32 +2841,7 @@ $(function() {
                  */
             </script>
 
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>
-
-            <script>
-                jQuery(document).ready(function($){
-
-                    var waypointOffsetu45840   = 'inViewport' == 'manual' ? '50%' : '100%';
-                    var delayToStartu45840     = 'inViewport' == 'manual' ? '100' : '0';
-
-                    $('#peta').waypoint(function() {
-                        setTimeout('svgu45840.play()', delayToStartu45840);
-                    }, {offset: waypointOffsetu45840});
-
-                    if ('in-viewport' != 'no-replay' && 'in-viewport' != 'in-viewport') {
-                        $('#u45840 .mt-on-in-viewport').on('in-viewport', function() {
-                            $('#u45840 .mt-on-in-viewport').removeClass('mt-svg-animation-finished');
-                            svgu45840.reset().play();
-                        });
-                    } else if ('in-viewport' == 'in-viewport') {
-                        $('#peta').waypoint(function() {
-                            $('#u45840 .mt-on-in-viewport').removeClass('mt-svg-animation-finished');
-                            setTimeout('svgu45840.reset().play()', delayToStartu45840);
-                        }, {offset: waypointOffsetu45840});
-                    }
-
-                });
-            </script>
+       
 
 
 
@@ -2912,75 +2862,7 @@ $(function() {
                  */
             </script>
 
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>
-
-            <script>
-                jQuery(document).ready(function($){
-
-                  setTimeout(function(){
-
-                    function resizeSVGu193656() {
-                        var theSVGContainer = document.getElementById('svg1'),
-                            theSVG = document.querySelector('#svg1 svg'),
-                            theViewBox = theSVG.getAttribute('viewBox'),
-                            arraySizes;
-
-                        if (theViewBox.indexOf(',') === -1) {
-                            arraySizes = theViewBox.split(' ');
-                        } else {
-                            arraySizes = theViewBox.split(',');
-                        }
-
-                        var containerWidth = theSVGContainer.offsetWidth,
-                            initialSVGWidth = arraySizes[2],
-                            initialSVGHeight = arraySizes[3],
-                            newSVGWidth = containerWidth,
-                            newSVGHeight = (containerWidth * initialSVGHeight) / initialSVGWidth;
-
-                        $('#svg1 svg').width(newSVGWidth + 'px');
-                        $('#svg1 svg').height(parseInt(newSVGHeight) + 'px');
-
-                    }
-
-                    if (!!window.MSInputMethodContext && !!document.documentMode) {
-
-                        resizeSVGu193656();
-
-                        $(window).resize(function () {
-                            clearTimeout(window.resizedFinishedu193656);
-                            window.resizedFinishedu193656 = setTimeout(function () {
-
-                                resizeSVGu193656();
-
-                            }, 1000); // set to 1sec after resize is finished
-                        });
-
-                    }
-
-                    var waypointOffsetu193656   = 'inViewport' == 'manual' ? '50%' : '100%';
-                    var delayToStartu193656     = 'inViewport' == 'manual' ? '100' : '0';
-
-                    $('#svg1').waypoint(function() {
-                        setTimeout('svgu193656.play()', delayToStartu193656);
-                    }, {offset: waypointOffsetu193656});
-
-                    if ('in-viewport' != 'no-replay' && 'in-viewport' != 'in-viewport') {
-                        $('#u193656 .mt-on-in-viewport').on('in-viewport', function() {
-                            $('#u193656 .mt-on-in-viewport').removeClass('mt-svg-animation-finished');
-                            svgu193656.reset().play();
-                        });
-                    } else if ('in-viewport' == 'in-viewport') {
-                        $('#svg1').waypoint(function() {
-                            $('#u193656 .mt-on-in-viewport').removeClass('mt-svg-animation-finished');
-                            setTimeout('svgu193656.reset().play()', delayToStartu193656);
-                        }, {offset: waypointOffsetu193656});
-                    }
-
-                  }, 200);
-
-                });
-            </script>
-
+           
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.js"></script>
 	<script type="text/javascript" src="https://cdn.musethemes.com/libs/lightcase/lightcase.min.js"></script>
