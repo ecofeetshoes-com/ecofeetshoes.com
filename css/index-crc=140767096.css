@@ -433,7 +433,7 @@
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background: #c5c5c5
     url("../images/vvvv_savoir-faire-01.jpg")
-    no-repeat center center;
+    no-repeat;
   background-size: cover;
 }
 #u33376 {
