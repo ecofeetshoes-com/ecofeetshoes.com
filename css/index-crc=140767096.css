@@ -20,7 +20,7 @@
   background-image: none;
   margin-left: auto;
 }
-.img {
+/*.img {
   border-color: #000000;
   border-width: 0px;
   background: transparent url("../images/bison-crc=449857510.jpg") no-repeat
@@ -29,7 +29,7 @@
 }
 .hidpi .img {
   background-image: url("../images/bison_2x-crc=250698067.jpg");
-}
+}*/
 #u10036 {
   top: 0px;
   position: fixed;
@@ -7634,7 +7634,7 @@ body {
     position: relative;
     margin-right: -10000px;
     width: 100%;
-    background: transparent url("../images/macarons_pm-crc=3761264468.jpg")
+    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg")
       no-repeat center top;
     background-size: cover;
   }
@@ -8043,8 +8043,8 @@ body {
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: transparent url("../images/4rouille-32852-crc=3977105665.jpg")
-      no-repeat right center;
+    background: transparent url("../images/vvvv_statement-straps-00.jpg")
+      no-repeat center center;
     background-size: cover;
   }
   #u32154-20 {
@@ -9385,7 +9385,7 @@ body {
     position: relative;
     margin-right: -10000px;
     width: 100%;
-    background: transparent url("../images/macarons_pm-crc=3761264468.jpg")
+    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg")
       no-repeat center top;
     background-size: cover;
   }
@@ -9794,8 +9794,8 @@ body {
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: transparent url("../images/4rouille-32852-crc=3977105665.jpg")
-      no-repeat right center;
+    background: transparent url("../images/vvvv_statement-straps-00.jpg")
+      no-repeat center center;
     background-size: cover;
   }
   #u32154-20 {
@@ -11766,12 +11766,12 @@ body {
     margin-right: -10000px;
     width: 100%;
     background: transparent
-      url("../images/macarons_pm-u29685-fr-crc=55192610.jpg") no-repeat center
+      url("../images/vvvv_hi-tech-knits-00.jpg") no-repeat center
       top;
     background-size: cover;
   }
   .hidpi #u29685 {
-    background-image: url("../images/macarons_pm-u29685-fr_2x-crc=3823106931.jpg");
+    background-image: url("../images/vvvv_hi-tech-knits-00.jpg");
   }
   #u151160-4 {
     z-index: 288;
@@ -12156,12 +12156,12 @@ body {
     margin-left: 0.42%;
     left: -1px;
     background: transparent
-      url("../images/4rouille-32852-u32159-fr-crc=3885430217.jpg") no-repeat
+      url("../images/vvvv_statement-straps-00.jpg") no-repeat
       right center;
     background-size: cover;
   }
   .hidpi #u32159 {
-    background-image: url("../images/4rouille-32852-u32159-fr_2x-crc=255305173.jpg");
+    background-image: url("../images/vvvv_statement-straps-00.jpg");
     margin-left: 0.42%;
     left: -1px;
   }
@@ -13668,12 +13668,12 @@ body {
     margin-right: -10000px;
     width: 100%;
     background: transparent
-      url("../images/macarons_pm-u29685-fr2-crc=4164992779.jpg") no-repeat
+      url("../images/vvvv_hi-tech-knits-00.jpg") no-repeat
       center top;
     background-size: cover;
   }
   .hidpi #u29685 {
-    background-image: url("../images/macarons_pm-u29685-fr_2x2-crc=4220998513.jpg");
+    background-image: url("../images/vvvv_hi-tech-knits-00.jpg");
   }
   #u151160-4 {
     z-index: 288;
@@ -14058,12 +14058,12 @@ body {
     margin-left: 0.63%;
     left: -1px;
     background: transparent
-      url("../images/4rouille-32852-u32159-fr2-crc=245319943.jpg") no-repeat
+      url("../images/vvvv_statement-straps-00.jpg") no-repeat
       right center;
     background-size: cover;
   }
   .hidpi #u32159 {
-    background-image: url("../images/4rouille-32852-u32159-fr_2x2-crc=25345665.jpg");
+    background-image: url("../images/vvvv_statement-straps-00.jpg");
     margin-left: 0.63%;
     left: -1px;
   }
