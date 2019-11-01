@@ -392,7 +392,7 @@
   text-align: right;
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  background: #c5c5c5 url("../images/vvvv_savoir-faire-00.jpg") no-repeat
+  background: #c5c5c5 url("../images/vvvv_savoir-faire-00.jpg?ver=20191101") no-repeat
     center center;
   background-size: cover;
 }
@@ -432,9 +432,9 @@
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background: #c5c5c5
-    url("../images/vvvv_savoir-faire-01.jpg")
+    url("../images/vvvv_savoir-faire-01.jpg?ver=20191101")
     no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 #u33376 {
   background-color: transparent;
@@ -583,7 +583,7 @@
   text-align: right;
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  background: #c5c5c5 url("../images/vvvv_savoir-faire-02.jpg") no-repeat
+  background: #c5c5c5 url("../images/vvvv_savoir-faire-02.jpg?ver=20191101") no-repeat
     center center;
   background-size: cover;
 }
@@ -831,7 +831,7 @@
   opacity: 1;
   z-index: 17;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  background: #f2f2f2 url("../images/vvvv_news-article-07.jpg")
+  background: #f2f2f2 url("../images/vvvv_news-article-07.jpg?ver=20191101")
     no-repeat center center;
   background-size: cover;
 }
@@ -3687,7 +3687,7 @@ body {
     margin-top: 32px;
   }
   #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -3946,7 +3946,7 @@ body {
   #u231771 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     margin-right: -10000px;
     left: 492px;
   }
@@ -3993,12 +3993,12 @@ body {
   #u226734 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-right: -10000px;
     left: 492px;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
   }
   #pu221323 {
     z-index: 38;
@@ -4007,7 +4007,7 @@ body {
   #u221323 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-right: -10000px;
   }
   #u226734:hover,
@@ -4044,7 +4044,7 @@ body {
   #u205410 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
     position: relative;
     margin-right: -10000px;
     left: 492px;
@@ -4057,7 +4057,7 @@ body {
     height: 440px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #buttonu208144 {
     z-index: 441;
@@ -6095,7 +6095,7 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -6175,7 +6175,7 @@ body {
   }
   #pu33375-3 {
     z-index: 106;
-    margin-top: 173px;
+    margin-top: 182px;
     width: 100%;
   }
   #u33375-3 {
@@ -6451,7 +6451,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     margin-right: -10000px;
     width: 54.47%;
     left: 45.54%;
@@ -6502,7 +6502,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-right: -10000px;
     width: 54.47%;
     left: 45.54%;
@@ -6515,7 +6515,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
   }
   #pu221323 {
     z-index: 38;
@@ -6525,7 +6525,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-right: -10000px;
     width: 55.06%;
   }
@@ -6544,7 +6544,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
   }
   #u221324-10 {
     margin-right: -10000px;
@@ -6567,7 +6567,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
     position: relative;
     margin-right: -10000px;
     width: 54.47%;
@@ -6580,7 +6580,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #buttonu208144 {
     z-index: 441;
@@ -7634,7 +7634,7 @@ body {
     position: relative;
     margin-right: -10000px;
     width: 100%;
-    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg")
+    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101")
       no-repeat center top;
     background-size: cover;
   }
@@ -8043,7 +8043,7 @@ body {
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: transparent url("../images/vvvv_statement-straps-00.jpg")
+    background: transparent url("../images/vvvv_statement-straps-00.jpg?ver=20191101")
       no-repeat center center;
     background-size: cover;
   }
@@ -8554,10 +8554,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -8919,7 +8919,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.87%;
     left: 0%;
     margin-left: -0.14%;
@@ -8954,7 +8954,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 99.87%;
     left: 0%;
@@ -8968,7 +8968,7 @@ body {
     margin-left: -0.14%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.14%;
   }
@@ -8981,7 +8981,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 98px;
     width: 99.87%;
     left: 0%;
@@ -9002,7 +9002,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.14%;
   }
@@ -9014,7 +9014,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -9023,7 +9023,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
@@ -9385,7 +9385,7 @@ body {
     position: relative;
     margin-right: -10000px;
     width: 100%;
-    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg")
+    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101")
       no-repeat center top;
     background-size: cover;
   }
@@ -9794,7 +9794,7 @@ body {
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: transparent url("../images/vvvv_statement-straps-00.jpg")
+    background: transparent url("../images/vvvv_statement-straps-00.jpg?ver=20191101")
       no-repeat center center;
     background-size: cover;
   }
@@ -10304,10 +10304,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -10611,7 +10611,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     top: -1px;
     margin-bottom: -1px;
     width: 100%;
@@ -10648,7 +10648,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 100%;
     left: 0%;
@@ -10662,7 +10662,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: 0%;
   }
@@ -10674,7 +10674,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 106px;
     width: 100%;
     left: 0%;
@@ -10695,7 +10695,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: 0%;
   }
@@ -10707,7 +10707,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -10716,7 +10716,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
@@ -11766,12 +11766,12 @@ body {
     margin-right: -10000px;
     width: 100%;
     background: transparent
-      url("../images/vvvv_hi-tech-knits-00.jpg") no-repeat center
+      url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101") no-repeat center
       top;
     background-size: cover;
   }
   .hidpi #u29685 {
-    background-image: url("../images/vvvv_hi-tech-knits-00.jpg");
+    background-image: url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101");
   }
   #u151160-4 {
     z-index: 288;
@@ -12156,12 +12156,12 @@ body {
     margin-left: 0.42%;
     left: -1px;
     background: transparent
-      url("../images/vvvv_statement-straps-00.jpg") no-repeat
+      url("../images/vvvv_statement-straps-00.jpg?ver=20191101") no-repeat
       right center;
     background-size: cover;
   }
   .hidpi #u32159 {
-    background-image: url("../images/vvvv_statement-straps-00.jpg");
+    background-image: url("../images/vvvv_statement-straps-00.jpg?ver=20191101");
     margin-left: 0.42%;
     left: -1px;
   }
@@ -12235,7 +12235,7 @@ body {
     left: 1px;
     width: 99.59%;
     background: transparent
-      url("../images/ecopel183%20sd-u31866-fr3-crc=18963314.jpg") no-repeat
+      url("../images/ecopel183%20sd-u31866-fr3-crc=18963314.jpg?ver=20191101") no-repeat
       center center;
     background-size: cover;
   }
@@ -12249,7 +12249,7 @@ body {
     background-size: cover;
   }
   .hidpi #u31866 {
-    background-image: url("../images/ecopel183%20sd-u31866-fr_2x3-crc=3933893770.jpg");
+    background-image: url("../images/ecopel183%20sd-u31866-fr_2x3-crc=3933893770.jpg?ver=20191101");
   }
   #u152609-4 {
     z-index: 264;
@@ -12560,10 +12560,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -12883,7 +12883,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.59%;
     left: 0%;
     margin-left: 0%;
@@ -12918,7 +12918,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 99.59%;
     left: 0%;
@@ -12932,7 +12932,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.21%;
   }
@@ -12944,7 +12944,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 97px;
     width: 99.59%;
     left: 0%;
@@ -12965,7 +12965,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.21%;
   }
@@ -12978,7 +12978,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -12987,7 +12987,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
@@ -13668,12 +13668,12 @@ body {
     margin-right: -10000px;
     width: 100%;
     background: transparent
-      url("../images/vvvv_hi-tech-knits-00.jpg") no-repeat
+      url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101") no-repeat
       center top;
     background-size: cover;
   }
   .hidpi #u29685 {
-    background-image: url("../images/vvvv_hi-tech-knits-00.jpg");
+    background-image: url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101");
   }
   #u151160-4 {
     z-index: 288;
@@ -14058,12 +14058,12 @@ body {
     margin-left: 0.63%;
     left: -1px;
     background: transparent
-      url("../images/vvvv_statement-straps-00.jpg") no-repeat
+      url("../images/vvvv_statement-straps-00.jpg?ver=20191101") no-repeat
       right center;
     background-size: cover;
   }
   .hidpi #u32159 {
-    background-image: url("../images/vvvv_statement-straps-00.jpg");
+    background-image: url("../images/vvvv_statement-straps-00.jpg?ver=20191101");
     margin-left: 0.63%;
     left: -1px;
   }
@@ -14462,10 +14462,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vvvv_savoir-faire-xx.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -14802,7 +14802,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.38%;
     left: 0%;
     margin-left: 0%;
@@ -14815,7 +14815,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u231771 {
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.32%;
   }
@@ -14848,7 +14848,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 99.38%;
     left: 0%;
@@ -14862,7 +14862,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.32%;
   }
@@ -14874,7 +14874,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 96px;
     width: 99.38%;
     left: 0%;
@@ -14895,7 +14895,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.32%;
   }
@@ -14907,7 +14907,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -14916,7 +14916,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
