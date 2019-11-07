@@ -584,8 +584,8 @@
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background: #c5c5c5 url("../images/vvvv_savoir-faire-02.jpg?ver=20191101") no-repeat
-    center center;
-  background-size: cover;
+    right center;
+  background-size: contain;
 }
 #u1819 {
   opacity: 1;
@@ -3740,7 +3740,7 @@ body {
     min-height: 80px;
   }
   #u33374-3 {
-    width: 960px;
+    width: 520px;
     position: relative;
     margin-right: -10000px;
     left: 429px;
@@ -5164,7 +5164,7 @@ body {
   }
   #u17391popup,
   #u17367popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.48%;
@@ -5291,9 +5291,15 @@ body {
       center center;
     background-size: contain;
   }
-  #u17373popup,
-  #u17355popup {
+  #u17373popup {
     margin-top: -1px;
+    height: 322px;
+    margin-right: -10000px;
+    width: 33.48%;
+    margin-left: 33.27%;
+  }
+  #u17355popup {
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.48%;
@@ -5414,7 +5420,7 @@ body {
   }
   #u17379popup,
   #u17361popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.48%;
@@ -5558,7 +5564,7 @@ body {
     background-size: contain;
   }
   #u17343popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.44%;
@@ -5698,7 +5704,7 @@ body {
     background-size: contain;
   }
   #u17385popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.44%;
@@ -6024,7 +6030,7 @@ body {
     left: 0%;
   }
   #pu17349popup {
-    top: -1px;
+    top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.44%;

@@ -1500,9 +1500,11 @@ body {
   #u149834-6 {
     z-index: 94;
     width: 984px;
-    position: fixed;
-    top: 3799px;
-    left: 20px;
+    /*position: fixed;*/
+    position: absolute;
+    top: 4636px;
+    /*left: 20px;*/
+      
   }
   body {
     min-width: 1024px;

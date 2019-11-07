@@ -151,9 +151,18 @@ div[data-orig-id="u111153"] {
 #u110860,
 #u110866,
 #u110852,
-#u110858,
-#u110863,
-#u110849,
+#u110858 {
+  background-position: center bottom;
+  background-size: cover;
+}
+#u110849 {
+  background-position: center center;
+  background-size: cover;
+}
+#u110863 {
+  background-position: center center;
+  background-size: cover;
+}
 #u110865 {
   background-position: center center;
   background-size: cover;
@@ -163,14 +172,22 @@ div[data-orig-id="u111153"] {
 #u110860:hover,
 #u110866:hover,
 #u110852:hover,
-#u110858:hover,
-#u110863:hover,
-#u110849:hover,
+#u110858:hover{
+  background-position: center bottom;
+  background-size: cover;
+}
+#u110863:hover{
+  background-position: center center;
+  background-size: cover;
+}
+#u110849:hover {
+  background-position: center center;
+  background-size: cover;
+}
 #u110865:hover {
   background-position: center center;
   background-size: cover;
 }
-
 a#buttonu110854,
 a#buttonu110867,
 a#buttonu110854:hover,

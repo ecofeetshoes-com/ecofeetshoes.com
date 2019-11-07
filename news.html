@@ -21,7 +21,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global-crc=510774705.css?ver=20191101"/>
   <link rel="stylesheet" type="text/css" href="css/master_moodboard-master-crc=380074989.css?ver=20191101"/>
-  <link rel="stylesheet" type="text/css" href="css/news-crc=3826772303.css" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/news-crc=3826772303.css?ver=20191107" id="pagesheet"/>
   <link rel="stylesheet" type="text/css" href="styles.css?ver=20191106"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
@@ -86,6 +86,25 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   #pu1819, #pu232357, #pu45840, #pu193474, #u232396, #pu1819, #u232357, #u45840, #u46732, #pu193656, #pnews { display: none !important; }
   #news, #pu205793 { margin-top: 0 !important; }
   #news { height: 0 !important; }
+  @media (max-width: 1025px) {
+  #u231283,#u221160,#u201340{
+      background-position: 140% center !important;
+      background-size: contain;
+    }
+    #u231283:hover,#u221160:hover,#u201340:hover{
+      background-position: 140% center !important;
+      background-size: contain;
+    }
+
+    #u231231,#u226325,#u201309{
+      background-position: -20% center !important;
+      background-size: contain;
+    }
+    #u231231:hover, #u226325:hover,#u201309:hover{
+      background-position: -20% center !important;
+      background-size: contain;
+    }
+  }
 
   @media (max-width: 1024px) and (min-width: 769px) {
     #u149009 { left: 267px !important; }
@@ -384,7 +403,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="clearfix ose_pre_init mse_pre_init shared_content" id="u149834-6" data-IBE-flags="txtStyleSrc" data-content-guid="u149834-6_content"><!-- content -->
+    <div class="clearfix shared_content" id="u149834-6" data-IBE-flags="txtStyleSrc" data-content-guid="u149834-6_content"><!-- content -->
      <p id="u149834-4"><span id="u149834">WANT TO SEE OUR PRODUCTS ?</span> <span id="u149834-3">GET IN TOUCH</span></p>
     </div>
    </div>
@@ -1047,8 +1066,9 @@ $('#u197650-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,397
 $('#u197650-4').registerOpacityScrollEffect([{"in":[-Infinity,397.5],"fade":434.1,"opacity":100},{"in":[397.5,397.5],"opacity":100},{"in":[397.5,Infinity],"fade":345.9,"opacity":0}], $(this)); /* scroll effect */
 $('#u149831').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,3376.24]},{"speed":[0,0],"in":[3376.24,Infinity]}], $(this)); /* scroll effect */
 $('#u149832').registerOpacityScrollEffect([{"in":[-Infinity,3234.74],"fade":251.45,"opacity":0},{"in":[3234.74,3234.74],"opacity":40},{"in":[3234.74,Infinity],"fade":50,"opacity":40}], $(this)); /* scroll effect */
-$('#u149834-6').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,3292.25]},{"speed":[0,1],"in":[3292.25,Infinity]}], $(this)); /* scroll effect */
-$('#u149834-6').registerOpacityScrollEffect([{"in":[-Infinity,3292.25],"fade":251.45,"opacity":0},{"in":[3292.25,3292.25],"opacity":100},{"in":[3292.25,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+
+/*$('#u149834-6').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,4500]},{"speed":[0,1],"in":[5000,Infinity]}], $(this)); /* scroll effect */
+/*$('#u149834-6').registerOpacityScrollEffect([{"in":[-Infinity,4500],"fade":251.45,"opacity":100},{"in":[5000,5000],"opacity":100},{"in":[5000,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
