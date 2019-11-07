@@ -584,8 +584,8 @@
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background: #c5c5c5 url("../images/vvvv_savoir-faire-02.jpg?ver=20191101") no-repeat
-    right center;
-  background-size: contain;
+    center center;
+  background-size: cover;
 }
 #u1819 {
   opacity: 1;
@@ -3740,7 +3740,7 @@ body {
     min-height: 80px;
   }
   #u33374-3 {
-    width: 520px;
+    width: 960px;
     position: relative;
     margin-right: -10000px;
     left: 429px;
