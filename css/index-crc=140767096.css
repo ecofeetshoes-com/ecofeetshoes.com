@@ -20,7 +20,7 @@
   background-image: none;
   margin-left: auto;
 }
-.img {
+/*.img {
   border-color: #000000;
   border-width: 0px;
   background: transparent url("../images/bison-crc=449857510.jpg") no-repeat
@@ -29,7 +29,7 @@
 }
 .hidpi .img {
   background-image: url("../images/bison_2x-crc=250698067.jpg");
-}
+}*/
 #u10036 {
   top: 0px;
   position: fixed;
@@ -392,7 +392,7 @@
   text-align: right;
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  background: #c5c5c5 url("../images/vvvv_savoir-faire-00.jpg") no-repeat
+  background: #c5c5c5 url("../images/vvvv_savoir-faire-00.jpg?ver=20191101") no-repeat
     center center;
   background-size: cover;
 }
@@ -432,9 +432,9 @@
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background: #c5c5c5
-    url("../images/vvvv_savoir-faire-01.jpg")
+    url("../images/vvvv_savoir-faire-01.jpg?ver=20191101")
     no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 #u33376 {
   background-color: transparent;
@@ -583,7 +583,7 @@
   text-align: right;
   font-weight: 300;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  background: #c5c5c5 url("../images/vvvv_savoir-faire-02.jpg") no-repeat
+  background: #c5c5c5 url("../images/vvvv_savoir-faire-02.jpg?ver=20191101") no-repeat
     center center;
   background-size: cover;
 }
@@ -831,7 +831,7 @@
   opacity: 1;
   z-index: 17;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  background: #f2f2f2 url("../images/vvvv_news-article-07.jpg")
+  background: #f2f2f2 url("../images/vvvv_news-article-07.jpg?ver=20191101")
     no-repeat center center;
   background-size: cover;
 }
@@ -1475,8 +1475,9 @@ body {
     z-index: 200;
     width: 984px;
     position: fixed;
-    top: 11449px;
+    top:8000px;
     left: 20px;
+
   }
   .js #u302-4.ose_pre_init,
   .js #u1850-6.ose_pre_init,
@@ -3687,7 +3688,7 @@ body {
     margin-top: 32px;
   }
   #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-crc=503973469.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -3946,7 +3947,7 @@ body {
   #u231771 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     margin-right: -10000px;
     left: 492px;
   }
@@ -3993,12 +3994,12 @@ body {
   #u226734 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-right: -10000px;
     left: 492px;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
   }
   #pu221323 {
     z-index: 38;
@@ -4007,7 +4008,7 @@ body {
   #u221323 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-right: -10000px;
   }
   #u226734:hover,
@@ -4044,7 +4045,7 @@ body {
   #u205410 {
     width: 960px;
     height: 440px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
     position: relative;
     margin-right: -10000px;
     left: 492px;
@@ -4057,7 +4058,7 @@ body {
     height: 440px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #buttonu208144 {
     z-index: 441;
@@ -5163,7 +5164,7 @@ body {
   }
   #u17391popup,
   #u17367popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.48%;
@@ -5290,9 +5291,15 @@ body {
       center center;
     background-size: contain;
   }
-  #u17373popup,
-  #u17355popup {
+  #u17373popup {
     margin-top: -1px;
+    height: 322px;
+    margin-right: -10000px;
+    width: 33.48%;
+    margin-left: 33.27%;
+  }
+  #u17355popup {
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.48%;
@@ -5413,7 +5420,7 @@ body {
   }
   #u17379popup,
   #u17361popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.48%;
@@ -5557,7 +5564,7 @@ body {
     background-size: contain;
   }
   #u17343popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.44%;
@@ -5697,7 +5704,7 @@ body {
     background-size: contain;
   }
   #u17385popup {
-    margin-top: -1px;
+    margin-top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.44%;
@@ -6023,7 +6030,7 @@ body {
     left: 0%;
   }
   #pu17349popup {
-    top: -1px;
+    top: -8px;
     height: 322px;
     margin-right: -10000px;
     width: 33.44%;
@@ -6095,7 +6102,7 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-crc=503973469.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -6175,7 +6182,7 @@ body {
   }
   #pu33375-3 {
     z-index: 106;
-    margin-top: 173px;
+    margin-top: 182px;
     width: 100%;
   }
   #u33375-3 {
@@ -6451,7 +6458,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     margin-right: -10000px;
     width: 54.47%;
     left: 45.54%;
@@ -6502,7 +6509,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-right: -10000px;
     width: 54.47%;
     left: 45.54%;
@@ -6515,7 +6522,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
   }
   #pu221323 {
     z-index: 38;
@@ -6525,7 +6532,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-right: -10000px;
     width: 55.06%;
   }
@@ -6544,7 +6551,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
   }
   #u221324-10 {
     margin-right: -10000px;
@@ -6567,7 +6574,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
     position: relative;
     margin-right: -10000px;
     width: 54.47%;
@@ -6580,7 +6587,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #buttonu208144 {
     z-index: 441;
@@ -7634,7 +7641,7 @@ body {
     position: relative;
     margin-right: -10000px;
     width: 100%;
-    background: transparent url("../images/macarons_pm-crc=3761264468.jpg")
+    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101")
       no-repeat center top;
     background-size: cover;
   }
@@ -8043,8 +8050,8 @@ body {
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: transparent url("../images/4rouille-32852-crc=3977105665.jpg")
-      no-repeat right center;
+    background: transparent url("../images/vvvv_statement-straps-00.jpg?ver=20191101")
+      no-repeat center center;
     background-size: cover;
   }
   #u32154-20 {
@@ -8554,10 +8561,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom2-crc=4087317105.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr_2x-crc=451439107.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -8919,7 +8926,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.87%;
     left: 0%;
     margin-left: -0.14%;
@@ -8954,7 +8961,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 99.87%;
     left: 0%;
@@ -8968,7 +8975,7 @@ body {
     margin-left: -0.14%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.14%;
   }
@@ -8981,7 +8988,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 98px;
     width: 99.87%;
     left: 0%;
@@ -9002,7 +9009,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.14%;
   }
@@ -9014,7 +9021,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -9023,7 +9030,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
@@ -9385,7 +9392,7 @@ body {
     position: relative;
     margin-right: -10000px;
     width: 100%;
-    background: transparent url("../images/macarons_pm-crc=3761264468.jpg")
+    background: transparent url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101")
       no-repeat center top;
     background-size: cover;
   }
@@ -9794,8 +9801,8 @@ body {
     width: 100%;
     margin-left: 0%;
     left: 0px;
-    background: transparent url("../images/4rouille-32852-crc=3977105665.jpg")
-      no-repeat right center;
+    background: transparent url("../images/vvvv_statement-straps-00.jpg?ver=20191101")
+      no-repeat center center;
     background-size: cover;
   }
   #u32154-20 {
@@ -10304,10 +10311,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr-crc=127030243.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr_2x2-crc=4182513180.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -10611,7 +10618,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     top: -1px;
     margin-bottom: -1px;
     width: 100%;
@@ -10648,7 +10655,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 100%;
     left: 0%;
@@ -10662,7 +10669,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: 0%;
   }
@@ -10674,7 +10681,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 106px;
     width: 100%;
     left: 0%;
@@ -10695,7 +10702,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: 0%;
   }
@@ -10707,7 +10714,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -10716,7 +10723,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
@@ -11766,12 +11773,12 @@ body {
     margin-right: -10000px;
     width: 100%;
     background: transparent
-      url("../images/macarons_pm-u29685-fr-crc=55192610.jpg") no-repeat center
+      url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101") no-repeat center
       top;
     background-size: cover;
   }
   .hidpi #u29685 {
-    background-image: url("../images/macarons_pm-u29685-fr_2x-crc=3823106931.jpg");
+    background-image: url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101");
   }
   #u151160-4 {
     z-index: 288;
@@ -12156,12 +12163,12 @@ body {
     margin-left: 0.42%;
     left: -1px;
     background: transparent
-      url("../images/4rouille-32852-u32159-fr-crc=3885430217.jpg") no-repeat
+      url("../images/vvvv_statement-straps-00.jpg?ver=20191101") no-repeat
       right center;
     background-size: cover;
   }
   .hidpi #u32159 {
-    background-image: url("../images/4rouille-32852-u32159-fr_2x-crc=255305173.jpg");
+    background-image: url("../images/vvvv_statement-straps-00.jpg?ver=20191101");
     margin-left: 0.42%;
     left: -1px;
   }
@@ -12235,7 +12242,7 @@ body {
     left: 1px;
     width: 99.59%;
     background: transparent
-      url("../images/ecopel183%20sd-u31866-fr3-crc=18963314.jpg") no-repeat
+      url("../images/ecopel183%20sd-u31866-fr3-crc=18963314.jpg?ver=20191101") no-repeat
       center center;
     background-size: cover;
   }
@@ -12249,7 +12256,7 @@ body {
     background-size: cover;
   }
   .hidpi #u31866 {
-    background-image: url("../images/ecopel183%20sd-u31866-fr_2x3-crc=3933893770.jpg");
+    background-image: url("../images/ecopel183%20sd-u31866-fr_2x3-crc=3933893770.jpg?ver=20191101");
   }
   #u152609-4 {
     z-index: 264;
@@ -12560,10 +12567,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr-crc=127030243.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr_2x2-crc=4182513180.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -12883,7 +12890,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.59%;
     left: 0%;
     margin-left: 0%;
@@ -12891,7 +12898,7 @@ body {
   #u231771:hover {
     margin-right: 0px;
     margin-bottom: 0px;
-    height: 330px;
+    /*height: 330px;*/
     width: 99.59%;
     margin-left: 0%;
   }
@@ -12918,7 +12925,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 99.59%;
     left: 0%;
@@ -12932,7 +12939,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.21%;
   }
@@ -12944,7 +12951,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 97px;
     width: 99.59%;
     left: 0%;
@@ -12965,7 +12972,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.21%;
   }
@@ -12978,7 +12985,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -12987,7 +12994,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;
@@ -13668,12 +13675,12 @@ body {
     margin-right: -10000px;
     width: 100%;
     background: transparent
-      url("../images/macarons_pm-u29685-fr2-crc=4164992779.jpg") no-repeat
+      url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101") no-repeat
       center top;
     background-size: cover;
   }
   .hidpi #u29685 {
-    background-image: url("../images/macarons_pm-u29685-fr_2x2-crc=4220998513.jpg");
+    background-image: url("../images/vvvv_hi-tech-knits-00.jpg?ver=20191101");
   }
   #u151160-4 {
     z-index: 288;
@@ -14058,12 +14065,12 @@ body {
     margin-left: 0.63%;
     left: -1px;
     background: transparent
-      url("../images/4rouille-32852-u32159-fr2-crc=245319943.jpg") no-repeat
+      url("../images/vvvv_statement-straps-00.jpg?ver=20191101") no-repeat
       right center;
     background-size: cover;
   }
   .hidpi #u32159 {
-    background-image: url("../images/4rouille-32852-u32159-fr_2x2-crc=25345665.jpg");
+    background-image: url("../images/vvvv_statement-straps-00.jpg?ver=20191101");
     margin-left: 0.63%;
     left: -1px;
   }
@@ -14462,10 +14469,10 @@ body {
     margin-left: 0%;
   }
   #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr-crc=127030243.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   .hidpi #u232 {
-    background-image: url("../images/vintage-perspective-old-urban-europe-factory-1075280-pxherecom-u232-fr_2x2-crc=4182513180.jpg");
+    background-image: url("../images/vvvv_savoir-faire-xx.jpg?ver=20191101");
   }
   #u296 {
     background: -webkit-gradient(
@@ -14802,7 +14809,7 @@ body {
   }
   #u231771 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.38%;
     left: 0%;
     margin-left: 0%;
@@ -14815,7 +14822,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u231771 {
-    background-image: url("../images/vvvv_news-article-08.jpg");
+    background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.32%;
   }
@@ -14848,7 +14855,7 @@ body {
   }
   #u226734 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     margin-top: 85px;
     width: 99.38%;
     left: 0%;
@@ -14862,7 +14869,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u226734 {
-    background-image: url("../images/vvvv_news-article-06.jpg");
+    background-image: url("../images/vvvv_news-article-06.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.32%;
   }
@@ -14874,7 +14881,7 @@ body {
   }
   #u221323 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     margin-top: 96px;
     width: 99.38%;
     left: 0%;
@@ -14895,7 +14902,7 @@ body {
     margin-left: 0%;
   }
   .hidpi #u221323 {
-    background-image: url("../images/vvvv_news-article-05.jpg");
+    background-image: url("../images/vvvv_news-article-05.jpg?ver=20191101");
     left: 0%;
     margin-left: -0.32%;
   }
@@ -14907,7 +14914,7 @@ body {
   }
   #u205410 {
     height: 330px;
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205411:active,
   #u205410:hover {
@@ -14916,7 +14923,7 @@ body {
     height: 330px;
   }
   .hidpi #u205410 {
-    background-image: url("../images/vvvv_news-article-04.jpg");
+    background-image: url("../images/vvvv_news-article-04.jpg?ver=20191101");
   }
   #u205410-bw {
     z-index: 16;

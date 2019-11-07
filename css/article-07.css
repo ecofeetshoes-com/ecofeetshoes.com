@@ -1272,9 +1272,10 @@ body {
   #u149834-6 {
     z-index: 19;
     width: 984px;
+    /*position: fixed;*/
     position: absolute;
-    top: 3684px;
-    /*left: 20px;   */
+    top: 2445px;
+    /*left: 20px;*/
   }
   body {
     min-width: 1024px;

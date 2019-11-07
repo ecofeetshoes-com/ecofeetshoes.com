@@ -1500,9 +1500,11 @@ body {
   #u149834-6 {
     z-index: 94;
     width: 984px;
-    position: fixed;
-    top: 3799px;
-    left: 20px;
+    /*position: fixed;*/
+    position: absolute;
+    top: 4636px;
+    /*left: 20px;*/
+      
   }
   body {
     min-width: 1024px;
@@ -1602,7 +1604,7 @@ body {
   #u231400-10 {
     z-index: 75;
     margin-right: -10000px;
-    margin-top: 99px;
+    margin-top: 85px;
     width: 34.58%;
     left: 8.21%;
   }
@@ -1816,6 +1818,7 @@ body {
     z-index: 65;
     width: 69.15%;
     margin-left: 12.5%;
+    margin-top:-40px;
   }
   #u226325 {
     z-index: 9;
@@ -1824,6 +1827,7 @@ body {
     margin-top: 48px;
     position: relative;
     width: 100%;
+    margin-top:5px;
   }
   #u226325:hover {
     margin-right: 0px;

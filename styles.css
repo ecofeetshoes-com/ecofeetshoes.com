@@ -4,42 +4,42 @@
 
 /* ARTICLE 08*/ #u231771, #u231771:hover, #u231231, #u231231:hover {
    background-color: White !important;
-   background-position: left center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 07*/ #u205411, #u205411:hover, #u231283, #u231283:hover {
    background-color: White !important;
-   background-position: right center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 06*/ #u226734, #u226734:hover, #u226325, #u226325:hover {
    background-color: White !important;
-   background-position: left center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 05*/ #u221323, #u221323:hover, #u221160, #u221160:hover {
    background-color: White !important;
-   background-position: right center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 04*/ #u205410, #u205410:hover, #u201309, #u201309:hover {
    background-color: White !important;
-   background-position: left center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 03*/                           #u201340, #u201340:hover {
    background-color: White !important;
-   background-position: right center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 02*/                           #u201309, #u201309:hover {
    background-color: White !important;
-   background-position: left center;
+   background-position: center center;
    /*background-size: contain;*/
 }
 /* ARTICLE 01*/                           #u201340, #u201340:hover {
    background-color: White !important;
-   background-position: right center;
+   background-position: center center;
   /*background-size: contain;*/
 }
 
@@ -70,12 +70,13 @@
   height: 100%;
 }
 
-#u302-4,
-#u1850-4,
+/*#u302-4,*/
+/*#u1850-4,*/
 /*#u205806-4,*/
-#u149834-4 {
+/*#u149834-4 */
+/*#u1850-6{
   display: none !important;
-}
+}*/
 
 #u217769 {
   z-index: 9999;
@@ -150,9 +151,18 @@ div[data-orig-id="u111153"] {
 #u110860,
 #u110866,
 #u110852,
-#u110858,
-#u110863,
-#u110849,
+#u110858 {
+  background-position: center bottom;
+  background-size: cover;
+}
+#u110849 {
+  background-position: center center;
+  background-size: cover;
+}
+#u110863 {
+  background-position: center center;
+  background-size: cover;
+}
 #u110865 {
   background-position: center center;
   background-size: cover;
@@ -162,14 +172,22 @@ div[data-orig-id="u111153"] {
 #u110860:hover,
 #u110866:hover,
 #u110852:hover,
-#u110858:hover,
-#u110863:hover,
-#u110849:hover,
+#u110858:hover{
+  background-position: center bottom;
+  background-size: cover;
+}
+#u110863:hover{
+  background-position: center center;
+  background-size: cover;
+}
+#u110849:hover {
+  background-position: center center;
+  background-size: cover;
+}
 #u110865:hover {
   background-position: center center;
   background-size: cover;
 }
-
 a#buttonu110854,
 a#buttonu110867,
 a#buttonu110854:hover,
