@@ -1452,7 +1452,7 @@ body {
     z-index: 99999;
     width: 984px;
     position: fixed;
-    top: 5300px;
+    top: 5350px;
     left: 20px;
   }
   #u208364-4 {
@@ -3913,7 +3913,7 @@ body {
   }
   #pu205793 {
     width: 0.01px;
-    margin-top: 45px;
+    margin-top: 50px;
   }
   #u205793 {
     background-image: url("../images/magazine-color-blue-colorful-page-material-719171-pxherecom-crc=4080453248.jpg");
@@ -3943,6 +3943,7 @@ body {
     z-index: 61;
     width: 0.01px;
     margin-left: 468px;
+    margin-top:50px;
   }
   #u231771 {
     width: 960px;
@@ -6412,7 +6413,7 @@ body {
     left: 178px;
   }
   #pu205793 {
-    margin-top: 59px;
+    margin-top: 55px;
     width: 100%;
     margin-left: 0%;
   }
@@ -6451,6 +6452,7 @@ body {
     left: 0px;
   }
   #pu231772-10 {
+    margin-top: 50px;
     z-index: 61;
     width: 91.8%;
     left: 0%;
@@ -8925,6 +8927,7 @@ body {
     left: -4.2743586448068527e-14px;
   }
   #u231771 {
+    margin-top: 50px;
     height: 330px;
     background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     width: 99.87%;
@@ -8932,6 +8935,7 @@ body {
     margin-left: -0.14%;
   }
   #u231771:hover {
+    margin-top: 50px;
     margin-right: 0px;
     margin-bottom: 0px;
     height: 330px;
@@ -10617,6 +10621,7 @@ body {
     left: 0px;
   }
   #u231771 {
+    margin-top:50px;
     height: 330px;
     background-image: url("../images/vvvv_news-article-08.jpg?ver=20191101");
     top: -1px;
@@ -10626,6 +10631,7 @@ body {
     margin-left: 0%;
   }
   #u231771:hover {
+    margin-top:50px;
     margin-right: 0px;
     margin-bottom: -1px;
     height: 330px;
@@ -11641,7 +11647,7 @@ body {
     z-index: 370;
     top: 26px;
     left: 20px;
-    width: 60%;
+    width: 45%;
     max-width: 200px;
   }
   #u3089 .fluid_height_spacer {
@@ -11695,7 +11701,7 @@ body {
     margin-right: -10000px;
     margin-top: 155px;
     width: 85.42%;
-    margin-left: 7.3%;
+    margin-left: 5.3%;
     left: 0px;
   }
   #buttonu171 {
@@ -12847,7 +12853,7 @@ body {
     margin-left: 0px;
   }
   #pu205793 {
-    margin-top: 50px;
+    margin-top: 48px;
     width: 99.59%;
     margin-left: 0%;
   }
