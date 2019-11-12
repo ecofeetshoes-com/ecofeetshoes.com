@@ -21,7 +21,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global-crc=510774705.css?ver=20191101"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master-crc=3902197584.css?ver=20191101"/>
-  <link rel="stylesheet" type="text/css" href="css/index-crc=140767096.css?ver=20191107" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index-crc=140767096.css?ver=20191111" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=162891425"/>
@@ -287,9 +287,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   #pu208351, #u207787-bw, #buttonu214993, #u208364-4 { display: none !important; }
   /* HIDE FRIENDS */
   #pu1819, #pu232357, #pu45840, #pu193474, #u7174, #u19898, #u232396, #pu1819, #u232357, #u45840, #u46732, #pu193656, #pnews { display: none !important; }
-  #news, #pu205793 { margin-top: 0 !important; }
+  #news { margin-top: 0 !important; }
+  #pu205793 { margin-top: 50 !important; }
   #news { height: 0 !important; }
   /**/
+
   #u193474 , #u193656{
     display: none;
   }
@@ -394,6 +396,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       margin-top: 245px;
       font-size: 21px;
     }
+    
     #u29680-22{
       min-height: 490px !important;
     }
@@ -442,7 +445,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     }
     #u33389-5 {font-size: 30px; line-height: 50px;}
     #u33378,#u33384,#u33388,#u33382{width: 36px; height: 36px;} 
-    #pu205793 {margin-top: -144px !important;}
+    #pu205793 {margin-top: -92px !important;}
+    
   }
   @media (max-width: 600px) and (min-width: 481px) {
     /* #ecopel1 {
@@ -471,6 +475,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     #u117059-12{
       margin-top: -40px;
     }
+    #pu205793 {margin-top: 50px !important;}
   }
   @media (max-width: 480px) and (min-width: 321px) {
     /* #ecopel1 {
@@ -524,10 +529,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       margin-top: 0px;
     }
     #u231771{
+      margin-top: 45px;
       height: 230px;
       background-size: cover;
     }
     #u231771:hover{
+      margin-top: 45px;
       background-size: cover;
     }
 
@@ -564,6 +571,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     #u205410:hover {   
       background-size: contain;
     }
+
   }
 </style>
  </head>
@@ -1205,7 +1213,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div id="u7765"><!-- group -->
       <div class="clearfix" id="u7765_align_to_page">
        <div class="clearfix grpelem" id="u7979-4" data-IBE-flags="txtStyleSrc"><!-- content -->
-        <p>© 2019, ECOFEET, All Rights Reserved</p>
+        <label>© 2019, ECOFEET, All Rights Reserved |</label>
+        <a href="privacy.html" style="text-decoration: none;color: #A3A3A3;" > Privacy</p>
        </div>
       </div>
      </div>
@@ -2851,16 +2860,16 @@ $('#u302-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,3176
 $('#u302-4').registerOpacityScrollEffect([{"in":[-Infinity,3176.45],"fade":283,"opacity":0},{"in":[3176.45,3176.45],"opacity":100},{"in":[3176.45,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 /*('#u1850-6').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,5378.45]},{"speed":[0,1],"in":[5378.45,Infinity]}], $(this)); /* scroll effect */
 /*$('#u1850-6').registerOpacityScrollEffect([{"in":[-Infinity,5378.45],"fade":299,"opacity":0},{"in":[5378.45,5378.45],"opacity":100},{"in":[5378.45,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
-$('#u205806-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,4876.45]},{"speed":[0,1],"in":[4876.45,Infinity]}], $(this)); /* scroll effect */
-$('#u205806-4').registerOpacityScrollEffect([{"in":[-Infinity,4876.45],"fade":283,"opacity":0},{"in":[4876.45,4876.45],"opacity":100},{"in":[4876.45,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u205806-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,4900.45]},{"speed":[0,1],"in":[4900.45,Infinity]}], $(this)); /* scroll effect */
+$('#u205806-4').registerOpacityScrollEffect([{"in":[-Infinity,4900.45],"fade":283,"opacity":0},{"in":[4900.45,4776.45],"opacity":100},{"in":[4900.45,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 
 /*$('#u205806-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,6938.05]},{"speed":[0,1],"in":[6938.05,Infinity]}], $(this)); /* scroll effect */
 /*$('#u205806-4').registerOpacityScrollEffect([{"in":[-Infinity,6938.05],"fade":299,"opacity":0},{"in":[6938.05,6938.05],"opacity":100},{"in":[6938.05,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 $('#u208364-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,9797.9]},{"speed":[0,1],"in":[9797.9,Infinity]}], $(this)); /* scroll effect */
 $('#u208364-4').registerOpacityScrollEffect([{"in":[-Infinity,9797.9],"fade":299,"opacity":0},{"in":[9797.9,9797.9],"opacity":100},{"in":[9797.9,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 
-$('#u1150-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,8100]},{"speed":[0,1],"in":[8100,Infinity]}], $(this)); /* scroll effect */
-$('#u1150-4').registerOpacityScrollEffect([{"in":[-Infinity,8100],"fade":251.45,"opacity":100},{"in":[8100,4876.45],"opacity":0},{"in":[8100,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
+$('#u1150-4').registerPositionScrollEffect([{"speed":[0,1.2],"in":[-Infinity,9050]},{"speed":[0,1],"in":[8200,Infinity]}], $(this)); /* scroll effect */
+$('#u1150-4').registerOpacityScrollEffect([{"in":[-Infinity,8200],"fade":251.45,"opacity":100},{"in":[8200,7900.45],"opacity":0},{"in":[8200,Infinity],"fade":50,"opacity":100}], $(this)); /* scroll effect */
 
 $('#u94').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,79.95]},{"speed":[0,0],"in":[79.95,Infinity]}], $(this)); /* scroll effect */
 $('#u105').registerOpacityScrollEffect([{"in":[-Infinity,304],"fade":198.15,"opacity":20},{"in":[304,304],"opacity":10},{"in":[304,Infinity],"fade":192,"opacity":0}], $(this)); /* scroll effect */
