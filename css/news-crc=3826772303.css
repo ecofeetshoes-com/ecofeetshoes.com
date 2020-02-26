@@ -381,6 +381,15 @@
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background-size: cover;
 }
+#u201340-9 {
+  background-color: #f2f2f2;
+  background-repeat: no-repeat;
+  filter: alpha(opacity=100);
+  opacity: 1;
+  background-position: center center;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  background-size: cover;
+}
 #u201340 {
   background-color: #f2f2f2;
   background-repeat: no-repeat;
@@ -390,6 +399,7 @@
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   background-size: cover;
 }
+#u201340-9:hover,
 #u221160:active,
 #u201309:hover,
 #u201340:hover {
@@ -400,6 +410,7 @@
   min-height: 0px;
   background-size: cover;
 }
+#u201340-9:active,
 #u201340:active {
   margin-bottom: 0px;
   background-position: center center;
@@ -413,6 +424,7 @@
 #u226343-10,
 #u221178-10,
 #u201366-10,
+#u201379-10-9,
 #u201379-10 {
   background-color: transparent;
   min-height: 47px;
@@ -985,9 +997,17 @@ body {
   .hidpi #u201309 {
     background-image: url("../images/shutterstock_738619942_2x-crc=4237821386.jpg");
   }
-  #pu201340 {
+  #pu201340-9 {
     z-index: 10;
     width: 0.01px;
+  }
+  #u201340-9 {
+    z-index: 10;
+    width: 960px;
+    height: 440px;
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+    position: relative;
+    margin-right: -10000px;
   }
   #u201340 {
     z-index: 10;
@@ -997,6 +1017,7 @@ body {
     position: relative;
     margin-right: -10000px;
   }
+  #u201340-9:hover,
   #u221160:active,
   #u201309:hover,
   #u201340:hover {
@@ -1005,14 +1026,25 @@ body {
     width: 960px;
     height: 440px;
   }
+  #u201340-9:active,
   #u201340:active {
     margin-left: 0px;
     margin-right: -10000px;
     width: 960px;
     height: 440px;
   }
+  .hidpi #u201340-9 {
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   .hidpi #u201340 {
     background-image: url("../images/shutterstock_1114470614_2x-crc=15927886.jpg");
+  }
+  #u201379-10-9 {
+    z-index: 45;
+    width: 354px;
+    margin-right: -10000px;
+    margin-top: 124px;
+    left: 1088px;
   }
   #u201379-10 {
     z-index: 45;
@@ -1900,12 +1932,21 @@ body {
   .hidpi #u201309 {
     background-image: url("../images/shutterstock_738619942-u205410-fr_2x-crc=3778639669.jpg");
   }
-  #pu201340 {
+  #pu201340-9 {
     z-index: 10;
     width: 90.83%;
     left: 0%;
     margin-left: 0%;
   }
+  #u201340-9 {
+    z-index: 10;
+    height: 330px;
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+    position: relative;
+    margin-right: -10000px;
+    width: 55.06%;
+  }
+
   #u201340 {
     z-index: 10;
     height: 330px;
@@ -1915,20 +1956,32 @@ body {
     width: 55.06%;
   }
   #u221160:active,
+  #u201340-9:hover,
   #u201340:hover {
     margin-right: -10000px;
     height: 330px;
     width: 55.06%;
     margin-left: 0%;
   }
+  #u201340-9:active,
   #u201340:active {
     margin-right: -10000px;
     height: 330px;
     width: 55.06%;
     margin-left: 0%;
   }
+  .hidpi #u201340-9 {
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   .hidpi #u201340 {
     background-image: url("../images/shutterstock_1114470614-u201340-fr_2x-crc=4041891107.jpg");
+  }
+  #u201379-10-9 {
+    z-index: 45;
+    margin-right: -10000px;
+    margin-top: 0px;
+    width: 38.07%;
+    left: 61.94%;
   }
   #u201379-10 {
     z-index: 45;
@@ -2796,6 +2849,11 @@ body {
     margin-left: 14%;
     left: 1px;
   }
+  #u201340-9 {
+    z-index: 10;
+    height: 330px;
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   #u201340 {
     z-index: 10;
     height: 330px;
@@ -2803,18 +2861,31 @@ body {
   }
   #u221160:active,
   #u201309:hover,
+  #u201340-9:hover,
   #u201340:hover {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  #u201340-9:active,
   #u201340:active {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  .hidpi #u201340-9 {
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   .hidpi #u201340 {
     background-image: url("../images/shutterstock_1114470614-u201340-fr_2x2-crc=12792680.jpg");
+  }
+
+  #u201340-bw-9 {
+    z-index: 10;
+    margin-top: 102px;
+    height: 330px;
+    left: 0px;
+    margin-left: 0px;
   }
   #u201340-bw {
     z-index: 10;
@@ -2822,6 +2893,13 @@ body {
     height: 330px;
     left: 0px;
     margin-left: 0px;
+  }
+  #u201379-10-9 {
+    z-index: 45;
+    margin-top: 86px;
+    width: 72.01%;
+    margin-left: 14%;
+    left: 1px;
   }
   #u201379-10 {
     z-index: 45;
@@ -3636,6 +3714,11 @@ body {
     margin-left: 14%;
     left: 0px;
   }
+  #u201340-9 {
+    z-index: 9;
+    height: 330px;
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   #u201340 {
     z-index: 9;
     height: 330px;
@@ -3643,25 +3726,45 @@ body {
   }
   #u221160:active,
   #u201309:hover,
+  #u201340-9:hover,
   #u201340:hover {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  #u201340-9:active,
   #u201340:active {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  .hidpi #u201340-9 {
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   .hidpi #u201340 {
     background-image: url("../images/shutterstock_1114470614-u201340-fr_2x3-crc=150515762.jpg");
   }
+  #u201340-9-bw {
+    z-index: 9;
+    margin-top: 20px;
+    height: 330px;
+    left: 0px;
+    margin-left: 0px;
+  }
+
   #u201340-bw {
     z-index: 9;
     margin-top: 102px;
     height: 330px;
     left: 0px;
     margin-left: 0px;
+  }
+  #u201379-10-9 {
+    z-index: 44;
+    margin-top: 86px;
+    width: 72%;
+    margin-left: 14%;
+    left: 0px;
   }
   #u201379-10 {
     z-index: 44;
@@ -4824,6 +4927,12 @@ body {
     margin-left: 14.07%;
     left: -1px;
   }
+  #u201340-9 {
+    z-index: 9;
+    height: 330px;
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
+
   #u201340 {
     z-index: 9;
     height: 330px;
@@ -4831,18 +4940,30 @@ body {
   }
   #u221160:active,
   #u201309:hover,
+  #u201340-9:hover,
   #u201340:hover {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  #u201340-9:active, 
   #u201340:active {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  .hidpi #u201340-9 {
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   .hidpi #u201340 {
     background-image: url("../images/shutterstock_1114470614-u201340-fr_2x4-crc=4102267971.jpg");
+  }
+  #u201340-9-bw {
+    z-index: 9;
+    margin-top: 20px;
+    height: 330px;
+    left: 0px;
+    margin-left: 0px;
   }
   #u201340-bw {
     z-index: 9;
@@ -4850,6 +4971,13 @@ body {
     height: 330px;
     left: 0px;
     margin-left: 0px;
+  }
+  #u201379-10-9 {
+    z-index: 44;
+    margin-top: 86px;
+    width: 71.88%;
+    margin-left: 14.07%;
+    left: -1px;
   }
   #u201379-10 {
     z-index: 44;
@@ -5683,6 +5811,11 @@ body {
     margin-left: 14.07%;
     left: 0px;
   }
+  #u201340-9 {
+    z-index: 9;
+    height: 330px;
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   #u201340 {
     z-index: 9;
     height: 330px;
@@ -5690,25 +5823,45 @@ body {
   }
   #u221160:active,
   #u201309:hover,
+  #u201340-9:hover,
   #u201340:hover {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  #u201340-9:active,
   #u201340:active {
     margin-left: 0px;
     margin-right: 0px;
     height: 330px;
   }
+  .hidpi #u201340-9 {
+    background-image: url("../images/vvvv_news-article-09.jpg?ver=20200225");
+  }
   .hidpi #u201340 {
     background-image: url("../images/shutterstock_1114470614-u201340-fr_2x5-crc=4285373289.jpg");
   }
+  #u201340-9-bw {
+    z-index: 9;
+    margin-top: 20px;
+    height: 330px;
+    left: 0px;
+    margin-left: 0px;
+  }
+
   #u201340-bw {
     z-index: 9;
     margin-top: 85px;
     height: 330px;
     left: 0px;
     margin-left: 0px;
+  }
+  #u201379-10-9 {
+    z-index: 44;
+    margin-top: 85px;
+    width: 71.88%;
+    margin-left: 14.07%;
+    left: 0px;
   }
   #u201379-10 {
     z-index: 44;
