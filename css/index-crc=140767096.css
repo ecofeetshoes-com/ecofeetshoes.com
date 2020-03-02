@@ -4157,7 +4157,7 @@ print {
         width: 960px;
         height: 440px;
         background-image: url("../images/vvvv_news-article-09.jpg?ver=20200224");
-        margin-right: -10000px;
+        margin-right: -10000px;     
     }
     #u221323-9:hover {
         margin-left: 0px;
@@ -4171,13 +4171,13 @@ print {
         margin-right: -10000px;
         margin-top: 0px;
         width: 960px;
-        height: 440px;
+        height: 440px;     
     }
     /**/
     #u221324-10-9 {
         width: 354px;
         margin-right: -10000px;
-        margin-top: 110px;
+        margin-top: 90px;
         left: 1088px;
     }
 
@@ -6568,7 +6568,7 @@ print {
     }
     #u205413-10 {
         margin-right: -10000px;
-        margin-top: 85px;
+        margin-top: 20px;
         width: 38.07%;
         left: 61.94%;
     }
